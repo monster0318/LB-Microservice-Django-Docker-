@@ -1,7 +1,5 @@
 # Load Balancer Microservices Django-Docker
 
-📘 [English Version - README.en.md](https://github.com/twtrubiks/docker-django-nginx-uwsgi-postgres-tutorial/blob/master/README.en.md)
-
 Basic tutorial on Docker + Django + Nginx + uWSGI + PostgreSQL – From Zero to Deployment.
 
 Learn how to build a production-ready stack using [Docker](https://www.docker.com/) with [Django](https://www.djangoproject.com/), [Nginx](https://nginx.org/en/), [uWSGI](https://uwsgi-docs.readthedocs.io/en/latest/), and [PostgreSQL](https://www.postgresql.org/) 📝
