@@ -1,4 +1,5 @@
 #!/bin/sh
+
 echo 'Run migration'
 python3 manage.py makemigrations musics
 python3 manage.py migrate
